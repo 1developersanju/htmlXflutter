@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736097279934",
+    "project_id": "planetoids-nuhro",
+    "storage_bucket": "planetoids-nuhro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736097279934:android:59f1a450cf334b352ea3ef",
+        "android_client_info": {
+          "package_name": "com.nuhro.planetoid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxcLOxzLkBsW5FRvJoC6WiL4qBLe8bQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
